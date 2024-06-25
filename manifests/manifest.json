@@ -362,6 +362,11 @@
         },
         "@type" : "oa:Annotation"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://theoburnel.github.io/Arabe5847-v2/annotations/f13.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f13.thumbnail"
       },
@@ -439,6 +444,11 @@
           "@type" : "dctypes:Image"
         },
         "@type" : "oa:Annotation"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://theoburnel.github.io/Arabe5847-v2/annotations/f16.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f16.thumbnail"
@@ -908,6 +918,11 @@
         },
         "@type" : "oa:Annotation"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://theoburnel.github.io/Arabe5847-v2/annotations/f34.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f34.thumbnail"
       },
@@ -1245,6 +1260,11 @@
           "@type" : "dctypes:Image"
         },
         "@type" : "oa:Annotation"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://theoburnel.github.io/Arabe5847-v2/annotations/f47.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f47.thumbnail"
@@ -1843,6 +1863,11 @@
           "@type" : "dctypes:Image"
         },
         "@type" : "oa:Annotation"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://theoburnel.github.io/Arabe5847-v2/annotations/f70.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b8422965p/f70.thumbnail"
