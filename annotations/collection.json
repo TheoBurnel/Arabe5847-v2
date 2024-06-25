@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f13.json", "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f16.json", "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f34.json", "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f47.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f13.json", "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f16.json", "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f34.json", "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f47.json", "https://TheoBurnel.github.io/Arabe5847-v2/annotations/f70.json" ],
   "@id" : "https://TheoBurnel.github.io/Arabe5847-v2/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/Arabe5847-v2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
