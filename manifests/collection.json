@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://TheoBurnel.github.io/Arabe5847-v2/manifests/manifest.json",
     "label" : "BnF. Département des Manuscrits. Arabe 5847"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Arabe5847-v2/manifests/manifest2.json",
+    "label" : "BnF. Département des Manuscrits. Arabe 5847"
   } ]
 }
